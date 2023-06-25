@@ -70,6 +70,7 @@ strong {
 }
 
 .apresentacao__links__link {
+    color: var(--cor-primaria);
     background-color: var(--cor-segundaria);
     width: 50%;
     text-align: center;
